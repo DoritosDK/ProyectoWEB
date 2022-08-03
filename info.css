@@ -1,0 +1,23 @@
+#info{
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-nike{
+    margin: 20px;
+}
+
+.info-nike img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 7px solid white;
+}
